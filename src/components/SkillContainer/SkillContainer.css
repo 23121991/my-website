@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Montserrat:wght@300;600&family=Open+Sans:wght@400;500;600&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.skillContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 200px 0;
+}
+
+.skillContainer_text{
+    color: white ;
+    flex: 0.6;
+    text-align: left;
+    max-width: 500px;
+    margin-bottom: 20px;
+}
+
+.skillContainer_text >h2{
+    font-size: 30px;
+
+}
+
+
+.skillContainer_image{
+    flex:0.4;
+    text-align: center;
+    margin-right: 100px;
+}
+.skillContainer_image>img{
+    width:750px;
+    border-radius: 3px;
+    object-fit: contain;
+}
+
+
+
+.skillContainer_skillSet>h5{
+    font-family: "Monserrat",sans-serif;
+    font-weight: 300;
+    padding-top: 30px;
+    padding-bottom: 10px;
+
+}
+
+.skillContainer_slider1 > .MuiLinearProgress-colorSecondary{
+    background-color: rgb(88,88,88);
+}
+
+.skillContainer_slider1 > div> .MuiLinearProgress-bar-colorSecondary{
+    background-color: rgb(156,26,3);
+}
+.skillContainer_slider2 > span> .MuiLinearProgress-bar-colorPrimary{
+    background-color: rgb(255,145,0);
+}
+.skillContainer_slider3 > div> .MuiLinearProgress-bar-colorSecondary{
+    background-color: rgb(228,213,0)ua;
+}
+.skillContainer_slider4 > div> .MuiLinearProgress-bar-colorSecondary{
+    background-color: rgb(136,146,0);
+}
+.skillContainer_sliderskillContainer_slider5 > div> .MuiLinearProgress-bar-colorSecondary{
+    background-color: rgb(22,145,2);
+}
+.skillContainer_slider6> div>.MuiLinearProgress-bar-colorSecondary{
+    background-color: aqua;
+}
+.skillContainer_slider6>div>.MuiLinearProgress-bar-colorSecondary{
+    background-color: chocolate;
+}
+.skill_header1{
+    color: aqua;
+}
+.skill_header2{
+  color:rgb(227, 89, 51);
+}
+.skill_header3{
+    color:rgb(230, 217, 48);  
+}
+.skill_header4{
+    color:rgb(93, 122, 224);
+}
+.skill_header5{
+    color:rgb(52, 185, 54);
+}
+.skill_header6{
+    color:rgb(178, 40, 95);
+}
+.skill_header7{
+    color:rgb(99, 134, 44); 
+}
+.mainskill_header{
+    font-family: sans-serif;
+    color: rgb(252, 181, 88);
+    text-align: center;
+    
+}
