@@ -26,8 +26,6 @@ const ProjectContainer = () => {
       link: "https://master--papaya-moonbeam-cd5f86.netlify.app/",
 
     },
-    
-    
     {
       img: "../assets/zomato.png",
       title: "Zomato",
