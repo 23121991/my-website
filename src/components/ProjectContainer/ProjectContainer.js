@@ -18,13 +18,16 @@ const ProjectContainer = () => {
       desc: "Quotes App using frontend Reactjs with backend Mongodb & Nodejs",
       link: "https://master--reliable-medovik-bb2dd4.netlify.app/",
     },
+    
     {
       img: "../assets/covid_tracker.png",
-      title: "Covid Tracker",
-      desc: "covid tracker using html,javscript & css",
-      link: "https://neon-halva-433c3b.netlify.app/",
+      title: "ToDoList-app",
+      desc: "ToDoList-app using frontend Reactjs with backend Mongodb & Nodejs",
+      link: "https://master--papaya-moonbeam-cd5f86.netlify.app/",
 
     },
+    
+    
     {
       img: "../assets/zomato.png",
       title: "Zomato",
@@ -37,6 +40,13 @@ const ProjectContainer = () => {
       title: "form",
       desc: "creating form using reactjs ",
       link: "https://main--comfy-churros-d38d02.netlify.app/",
+    },
+    {
+      img: "../assets/covid_tracker.png",
+      title: "Covid Tracker",
+      desc: "covid tracker using html,javscript & css",
+      link: "https://neon-halva-433c3b.netlify.app/",
+
     }
 
   ]
