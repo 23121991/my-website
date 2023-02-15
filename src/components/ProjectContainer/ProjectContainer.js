@@ -6,11 +6,17 @@ import "./ProjectContainer.css";
 const ProjectContainer = () => {
   const projects = [
     {
-      img: "../assets/gmail_clone.png",
+      img: "../assets/gmail.jpg",
       title: "Gmail Clone",
       desc: "gmail clone app using React,Mongodb & Nodejs",
       link: "https://regal-liger-dce38b.netlify.app/",
 
+    },
+    {
+      img: "../assets",
+      title: "Quotes App",
+      desc: "covid tracker using frontend Reactjs with backend Mongodb & Nodejs",
+      link: "https://master--reliable-medovik-bb2dd4.netlify.app/",
     },
     {
       img: "../assets/covid_tracker.png",
