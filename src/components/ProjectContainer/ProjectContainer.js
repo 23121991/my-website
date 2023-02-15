@@ -13,9 +13,9 @@ const ProjectContainer = () => {
 
     },
     {
-      img: "../assets",
+      img: "../assets/quotesapp.jpg",
       title: "Quotes App",
-      desc: "covid tracker using frontend Reactjs with backend Mongodb & Nodejs",
+      desc: "Quotes App using frontend Reactjs with backend Mongodb & Nodejs",
       link: "https://master--reliable-medovik-bb2dd4.netlify.app/",
     },
     {
